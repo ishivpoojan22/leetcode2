@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
