@@ -31,15 +31,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivpoojan22/leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/shivpoojan22/leetcode2/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/shivpoojan22/leetcode2/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivpoojan22/leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/shivpoojan22/leetcode2/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/shivpoojan22/leetcode2/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Greedy
+|  |
+| ------- |
+| [2089-maximum-matrix-sum](https://github.com/shivpoojan22/leetcode2/tree/master/2089-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
