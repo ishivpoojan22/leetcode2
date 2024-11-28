@@ -19,4 +19,13 @@ public:
         }
         return true;
     }
+
+
+    // method 2 (sorting)
+    // sort(s.begin(), s.end()); 
+    // sort(t.begin(), t.end()); 
+    // if( s==t ){ 
+    //     return true; 
+    //     } 
+    // return false; }
 };
