@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivpoojan22/leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Math
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3189-find-champion-ii](https://github.com/shivpoojan22/leetcode2/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shivpoojan22/leetcode2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
