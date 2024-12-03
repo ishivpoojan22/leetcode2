@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/shivpoojan22/leetcode2/tree/master/0953-reverse-only-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivpoojan22/leetcode2/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivpoojan22/leetcode2/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/shivpoojan22/leetcode2/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2232-adding-spaces-to-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/shivpoojan22/leetcode2/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shivpoojan22/leetcode2/tree/master/2089-maximum-matrix-sum) |
+| [2232-adding-spaces-to-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shivpoojan22/leetcode2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shivpoojan22/leetcode2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
