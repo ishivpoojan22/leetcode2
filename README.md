@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivpoojan22/leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shivpoojan22/leetcode2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shivpoojan22/leetcode2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/shivpoojan22/leetcode2/tree/master/2089-maximum-matrix-sum) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivpoojan22/leetcode2/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
