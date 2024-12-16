@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0013-roman-to-integer) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivpoojan22/leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/shivpoojan22/leetcode2/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/shivpoojan22/leetcode2/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shivpoojan22/leetcode2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivpoojan22/leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shivpoojan22/leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivpoojan22/leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shivpoojan22/leetcode2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shivpoojan22/leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/shivpoojan22/leetcode2/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivpoojan22/leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
