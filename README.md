@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shivpoojan22/leetcode2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shivpoojan22/leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shivpoojan22/leetcode2/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shivpoojan22/leetcode2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shivpoojan22/leetcode2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2201-valid-arrangement-of-pairs](https://github.com/shivpoojan22/leetcode2/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shivpoojan22/leetcode2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/shivpoojan22/leetcode2/tree/master/3189-find-champion-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shivpoojan22/leetcode2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shivpoojan22/leetcode2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2201-valid-arrangement-of-pairs](https://github.com/shivpoojan22/leetcode2/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shivpoojan22/leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/shivpoojan22/leetcode2/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shivpoojan22/leetcode2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shivpoojan22/leetcode2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shivpoojan22/leetcode2/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/shivpoojan22/leetcode2/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shivpoojan22/leetcode2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
