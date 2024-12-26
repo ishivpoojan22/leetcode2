@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivpoojan22/leetcode2/tree/master/0075-sort-colors) |
+| [0494-target-sum](https://github.com/shivpoojan22/leetcode2/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shivpoojan22/leetcode2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/shivpoojan22/leetcode2/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivpoojan22/leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/shivpoojan22/leetcode2/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/shivpoojan22/leetcode2/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shivpoojan22/leetcode2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivpoojan22/leetcode2/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
