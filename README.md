@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shivpoojan22/leetcode2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shivpoojan22/leetcode2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shivpoojan22/leetcode2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shivpoojan22/leetcode2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shivpoojan22/leetcode2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shivpoojan22/leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/shivpoojan22/leetcode2/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shivpoojan22/leetcode2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shivpoojan22/leetcode2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/shivpoojan22/leetcode2/tree/master/3427-special-array-ii) |
 ## Queue
 |  |
