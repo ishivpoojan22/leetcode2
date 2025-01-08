@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/shivpoojan22/leetcode2/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shivpoojan22/leetcode2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shivpoojan22/leetcode2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shivpoojan22/leetcode2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/shivpoojan22/leetcode2/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivpoojan22/leetcode2/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shivpoojan22/leetcode2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shivpoojan22/leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/shivpoojan22/leetcode2/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shivpoojan22/leetcode2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shivpoojan22/leetcode2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/shivpoojan22/leetcode2/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shivpoojan22/leetcode2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivpoojan22/leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivpoojan22/leetcode2/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shivpoojan22/leetcode2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivpoojan22/leetcode2/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shivpoojan22/leetcode2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shivpoojan22/leetcode2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
