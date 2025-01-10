@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
+| [0952-word-subsets](https://github.com/shivpoojan22/leetcode2/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivpoojan22/leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivpoojan22/leetcode2/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivpoojan22/leetcode2/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/0345-reverse-vowels-of-a-string) |
+| [0952-word-subsets](https://github.com/shivpoojan22/leetcode2/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/shivpoojan22/leetcode2/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shivpoojan22/leetcode2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/shivpoojan22/leetcode2/tree/master/1524-string-matching-in-an-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shivpoojan22/leetcode2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shivpoojan22/leetcode2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/shivpoojan22/leetcode2/tree/master/0787-sliding-puzzle) |
+| [0952-word-subsets](https://github.com/shivpoojan22/leetcode2/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/shivpoojan22/leetcode2/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/shivpoojan22/leetcode2/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivpoojan22/leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
