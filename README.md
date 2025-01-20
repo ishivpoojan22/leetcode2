@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivpoojan22/leetcode2/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shivpoojan22/leetcode2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/shivpoojan22/leetcode2/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shivpoojan22/leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shivpoojan22/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shivpoojan22/leetcode2/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/shivpoojan22/leetcode2/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shivpoojan22/leetcode2/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/shivpoojan22/leetcode2/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shivpoojan22/leetcode2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shivpoojan22/leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shivpoojan22/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2089-maximum-matrix-sum](https://github.com/shivpoojan22/leetcode2/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shivpoojan22/leetcode2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2685-first-completely-painted-row-or-column](https://github.com/shivpoojan22/leetcode2/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
 |  |
 | ------- |
