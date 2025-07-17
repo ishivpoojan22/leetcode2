@@ -1,13 +1,12 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-
         int freqTable[256] = {0};
 
-        for (int i = 0; i < s.size(); i++) {
+        for (int i = 0; i < s.length(); i++) {
             freqTable[s[i]]++;
         }
-        for (int i = 0; i < t.size(); i++) {
+        for (int i = 0; i < t.length(); i++) {
             freqTable[t[i]]--;
         }
 
@@ -18,14 +17,6 @@ public:
             }
         }
         return true;
+        
     }
-
-
-    // method 2 (sorting)
-    // sort(s.begin(), s.end()); 
-    // sort(t.begin(), t.end()); 
-    // if( s==t ){ 
-    //     return true; 
-    //     } 
-    // return false; }
 };
