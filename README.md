@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/shivpoojan22/leetcode2/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shivpoojan22/leetcode2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivpoojan22/leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivpoojan22/leetcode2/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/shivpoojan22/leetcode2/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/shivpoojan22/leetcode2/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shivpoojan22/leetcode2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/shivpoojan22/leetcode2/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shivpoojan22/leetcode2/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shivpoojan22/leetcode2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/shivpoojan22/leetcode2/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivpoojan22/leetcode2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shivpoojan22/leetcode2/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/shivpoojan22/leetcode2/tree/master/2164-two-best-non-overlapping-events) |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivpoojan22/leetcode2/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/shivpoojan22/leetcode2/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shivpoojan22/leetcode2/tree/master/2533-bitwise-xor-of-all-pairings) |
