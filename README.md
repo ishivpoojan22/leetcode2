@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/shivpoojan22/leetcode2/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shivpoojan22/leetcode2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/shivpoojan22/leetcode2/tree/master/2465-shifting-letters-ii) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishivpoojan22/leetcode2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shivpoojan22/leetcode2/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/shivpoojan22/leetcode2/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivpoojan22/leetcode2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivpoojan22/leetcode2/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishivpoojan22/leetcode2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/shivpoojan22/leetcode2/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shivpoojan22/leetcode2/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shivpoojan22/leetcode2/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishivpoojan22/leetcode2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shivpoojan22/leetcode2/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Topological Sort
 |  |
