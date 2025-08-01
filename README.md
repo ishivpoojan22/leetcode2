@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivpoojan22/leetcode2/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishivpoojan22/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/shivpoojan22/leetcode2/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/shivpoojan22/leetcode2/tree/master/0494-target-sum) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishivpoojan22/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/shivpoojan22/leetcode2/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shivpoojan22/leetcode2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/shivpoojan22/leetcode2/tree/master/1025-minimum-cost-for-tickets) |
