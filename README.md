@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shivpoojan22/leetcode2/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/ishivpoojan22/leetcode2/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ishivpoojan22/leetcode2/tree/master/0326-power-of-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivpoojan22/leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -391,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/shivpoojan22/leetcode2/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ishivpoojan22/leetcode2/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
