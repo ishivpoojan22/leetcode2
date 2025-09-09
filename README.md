@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/shivpoojan22/leetcode2/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shivpoojan22/leetcode2/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ishivpoojan22/leetcode2/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/shivpoojan22/leetcode2/tree/master/2551-apply-operations-to-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shivpoojan22/leetcode2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivpoojan22/leetcode2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/shivpoojan22/leetcode2/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shivpoojan22/leetcode2/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/shivpoojan22/leetcode2/tree/master/2164-two-best-non-overlapping-events) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ishivpoojan22/leetcode2/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/shivpoojan22/leetcode2/tree/master/2562-count-ways-to-build-good-strings) |
 ## Prefix Sum
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ishivpoojan22/leetcode2/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/shivpoojan22/leetcode2/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
